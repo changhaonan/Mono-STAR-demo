@@ -14,9 +14,9 @@ Overview of the proposed system. The system runs in two parallel threads, one fo
 ## Experiment Results
 
 ### Fast Motion
-caption1 | caption2
+Geometry | Graph
 :-: | :-:
-<video src='docs/geometry_graph.mp4' width=180/> | <video src='docs/geometry_color.mp4' width=180/>
+<video src="https://user-images.githubusercontent.com/16898838/194716773-48285025-e2ad-46f0-a4e3-3d7460094a83.mp4" width=180/> | <video src="https://user-images.githubusercontent.com/16898838/194716784-1b319003-211f-47b5-97d5-257a8846109f.mp4" width=180/>
 ### Deformation
 
 ### Topology Change
