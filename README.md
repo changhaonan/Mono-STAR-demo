@@ -58,3 +58,13 @@ Color | Geometry | Graph
 ## Conclusion
 
 We presented **Mono-STAR**, a single-view solution for the semantic-aware STAR problem. **Mono-STAR** uses a novel semantic-aware and adaptive deformation graph for simultaneous tracking and reconstruction, and can handle topology changes as well as semantic fusion. Experiments show that Mono-STAR achieves promising results in non-rigid object reconstruction, while resisting to semantic segmentation errors, and capturing fast motions on various challenging scenes. We believe that this system can inspire and boost more future research on imitation learning, dexterous manipulation, and many other relevant robotics problems.
+
+# Cite the work
+```
+@article{chang2023mono,
+  title={Mono-STAR: Mono-camera Scene-level Tracking and Reconstruction},
+  author={Chang, Haonan and Ramesh, Dhruv Metha and Geng, Shijie and Gan, Yuqiu and Boularias, Abdeslam},
+  journal={arXiv preprint arXiv:2301.13244},
+  year={2023}
+}
+```
